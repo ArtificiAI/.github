@@ -9,6 +9,14 @@ Our product
 </p>
 
 <h3 align="center">
+    <p>Open source projects</p>
+</h3>
+<p>Multilingual Latent Dirichlet Allocation (LDA) Pipeline</p>
+[![Python application](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA/actions/workflows/python-app.yml/badge.svg)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA/actions/workflows/python-app.yml)
+<p>SGNN-Transformer-Sentence-Model-SimilarityBXEnt</p>
+[![Python application](https://github.com/ArtificiAI/SGNN-Transformer-Sentence-Model-SimilarityBXEnt/actions/workflows/python-app.yml/badge.svg)](https://github.com/ArtificiAI/SGNN-Transformer-Sentence-Model-SimilarityBXEnt/actions/workflows/python-app.yml)
+
+<h3 align="center">
     <p>Analyze your digital spaces</p>
 </h3>
 
